@@ -1,2 +1,2 @@
 # weather-app
-Yahoo weather app in progress
+Yahoo weather app: <in progress>
